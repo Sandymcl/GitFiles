@@ -1,0 +1,4 @@
+Goodbye to 2019.
+I have succesfuflly leanred the Git basics mentioned int he welcome file
+yay
+Goodbye.
